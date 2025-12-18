@@ -1,0 +1,8 @@
+flask
+flask-cores
+tensorflow
+pandas
+numpy
+pillow
+opencv-python
+
