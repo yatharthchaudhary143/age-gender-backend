@@ -1,8 +1,9 @@
 flask
-flask-cores
+flask-cors
 tensorflow
 pandas
 numpy
 pillow
 opencv-python
+
 
